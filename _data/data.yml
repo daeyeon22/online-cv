@@ -47,12 +47,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Daeyeon Kim is currently a Ph.D candidate in the Department of Electrical Engineering,Postech. My research interests are routing algorithm in physical design and machine learning in EDA. I specialize in programming based on C/C++/Phython/Tcl. 
+
 education:
     - degree: MSc in Computer Science
       university: University of London
