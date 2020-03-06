@@ -31,9 +31,6 @@ sidebar:
       - idiom: English
         level: Advanced
 
-      - idiom: Spanish
-        level: Professional
-
     interests:
       - item: Physical Design (Routing)
         link:
@@ -41,8 +38,6 @@ sidebar:
       - item: Deep Learning in EDA
         link:
 
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
