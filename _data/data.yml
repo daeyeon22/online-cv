@@ -126,12 +126,12 @@ publications:
 
       - title: Machine Learning Framework for Early Routability Prediction with Artificial Netlist Generator (to appear)
         link: "#"
-        authors: **Daeyeon** **Kim**, Hyunjeong Kwon, Sung-Yun Lee, Seungwon Kim, Mingyu Woo and Seokhyeong Kang
+        authors: Daeyeon Kim, Hyunjeong Kwon, Sung-Yun Lee, Seungwon Kim, Mingyu Woo and Seokhyeong Kang
         conference: "Proceedings Design, Automation and Test in Europe (2021)" 
 
       - title: Extreme Low Power Technology using Ternary Arithmetic Logic Circuits via Drastic Interconnect Length Reduction
         link: "#"
-        authors: Kiyung Kim, Sunmean Kim, Yongsu Lee, **Daeyeon** **Kim**, So-Young Kim, Seokhyeong Kang and Byoung Hun Lee
+        authors: Kiyung Kim, Sunmean Kim, Yongsu Lee, Daeyeon Kim, So-Young Kim, Seokhyeong Kang and Byoung Hun Lee
         journal: "IEEE International Symposium on Multiple-Valued Logic (2020)" 
 awards:
     title: Awards and Honors
