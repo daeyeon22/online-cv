@@ -122,7 +122,7 @@ publications:
       - title: Compact Topology-aware Bus Routing for Design Regularity
         link: "https://ieeexplore.ieee.org/abstract/document/8755281"
         authors: Daeyeon Kim, Sanggi Do, Sung-Yun Lee and Seokhyeong Kang
-        journal: "IEEE Transaction on Computer-Aided Design of Integrated Circuit and Systems (2020)" 
+        conference: "IEEE Transaction on Computer-Aided Design of Integrated Circuit and Systems (2020)" 
 
       - title: Machine Learning Framework for Early Routability Prediction with Artificial Netlist Generator (to appear)
         link: "#"
@@ -132,9 +132,16 @@ publications:
       - title: Extreme Low Power Technology using Ternary Arithmetic Logic Circuits via Drastic Interconnect Length Reduction
         link: "#"
         authors: Kiyung Kim, Sunmean Kim, Yongsu Lee, Daeyeon Kim, So-Young Kim, Seokhyeong Kang and Byoung Hun Lee
-        journal: "IEEE International Symposium on Multiple-Valued Logic (2020)" 
+        conference: "IEEE International Symposium on Multiple-Valued Logic (2020)" 
+
 awards:
     title: Awards and Honors
+    intro: |
+
+    honors:
+      - title: ISPD19 Contest on Initial Detailed Routing (3rd Award)
+      - title: ICCAD19 Contest on LEF/DEF Based Open-Source Global Router (3rd Award)
+
 
 
 
