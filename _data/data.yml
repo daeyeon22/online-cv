@@ -51,28 +51,19 @@ career-profile:
       Daeyeon Kim is currently a Ph.D candidate in the Department of Electrical Engineering,Postech. My research interests are routing algorithm in physical design and machine learning in EDA. I specialize in programming based on C/C++/Phython/Tcl. 
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BS. from Computer Science & Engineering 
+      university: Ulsan National Institute of Science and Technology (UNIST)
+      time: 2011 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: MS. from Electrical Engineering 
+      university: Pohang University of Science and Technology (POSTECH)
+      time: 2018 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Dr.-Ing from Electrical Engineering 
+      university: Pohang University of Science and Technology (POSTECH)
+      time: 2020 - 
+      details: |
+
 experiences:
     - role: Graduate Student Researcher
       time: 2016 - Present
