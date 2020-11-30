@@ -32,10 +32,16 @@ sidebar:
         level: Advanced
 
     interests:
-      - item: Physical Design (Routing)
+      - item: Physical Design Automation
         link:
 
-      - item: Deep Learning in EDA
+      - item: Floorplan/Powerplan Optimization
+        link: 
+
+      - item: Machine Learning in EDA
+        link:
+
+      - item: Routing
         link:
 
 
@@ -90,7 +96,7 @@ projects:
     assignments:
       - title: Obstacle Avoiding Topology-aware Bus Router
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: ""
 
       - title: LEF/DEF Based Global Router 
         link: "#"
@@ -100,13 +106,13 @@ projects:
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Artificial Netlist Generator for Machine Learning P&R Benchamrk
+      - title: Artificial Netlist Generator for Machine Learning Application in EDA
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
       - title: Self-Driving Vehicle Routing Algorithm Simulator 
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: ""
 
 publications:
     title: Publications
@@ -114,10 +120,19 @@ publications:
     
     papers:
       - title: Compact Topology-aware Bus Routing for Design Regularity
-        link: "#"
+        link: "https://ieeexplore.ieee.org/abstract/document/8755281"
         authors: Daeyeon Kim, Sanggi Do, Sung-Yun Lee and Seokhyeong Kang
-        journal: "IEEE Transaction on Computer-Aided Design of Integrated Circuit and Systems" 
+        journal: "IEEE Transaction on Computer-Aided Design of Integrated Circuit and Systems (2020)" 
 
+      - title: Machine Learning Framework for Early Routability Prediction with Artificial Netlist Generator (to appear)
+        link: "#"
+        authors: **Daeyeon Kim**, Hyunjeong Kwon, Sung-Yun Lee, Seungwon Kim, Mingyu Woo and Seokhyeong Kang
+        conference: "Proceedings Design, Automation and Test in Europe (2021)" 
+
+      - title: Extreme Low Power Technology using Ternary Arithmetic Logic Circuits via Drastic Interconnect Length Reduction
+        link: "#"
+        authors: Kiyung Kim, Sunmean Kim, Yongsu Lee, **Daeyeon** **Kim**, So-Young Kim, Seokhyeong Kang and Byoung Hun Lee
+        journal: "IEEE International Symposium on Multiple-Valued Logic (2020)" 
 awards:
     title: Awards and Honors
 
@@ -128,23 +143,30 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python 
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Tensorflow, Keras, Pytorch
+        level: 75%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: C/C++ Programming
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Objective-C / Swift (IOS Programming)
+        level: 50%
+      
+      - name: C/C++ Programming
+        level: 95%
+      
+      - name: Verilog
+        level: 70%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Innovus Implementation System
+        level: 75%
+
+      - name: IC Compiler II
+        level: 50%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
